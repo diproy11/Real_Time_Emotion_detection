@@ -6,9 +6,9 @@
 # Processing
 
 * There is two python file
-  1. Expression.ipynb : Here I have trained my model with Dataset.
+  - Expression.ipynb : Here I have trained my model with Dataset.
      * And saved the Learning and weights in two file "model.jason", "model.h5"
-  2. MainFile_Ex.ipynb: Here I have writen the code for web cam and fit previous learning files into it to predict in real time.
+  - MainFile_Ex.ipynb: Here I have writen the code for web cam and fit previous learning files into it to predict in real time.
 * For recognize the face on web cam I used Frontal_default xml file from harcascade.
   - File is attached in my REPO.
 # DataSet
